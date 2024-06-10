@@ -115,52 +115,52 @@ Agile vs. Waterfall Models of Software Development
 Key Differences
 Approach
 
-Agile: Iterative and incremental【Pressman, 2014】.
-Waterfall: Linear and sequential【Royce, 1970】.
+Agile: Iterative and incremental(Pressman, 2014).
+Waterfall: Linear and sequential(Royce, 1970).
 Flexibility
 
-Agile: High flexibility; changes can be made at any stage【Schwaber & Sutherland, 2017】.
-Waterfall: Low flexibility; difficult to implement changes once a phase is completed【Royce, 1970】.
+Agile: High flexibility; changes can be made at any stage(Schwaber & Sutherland, 2017).
+Waterfall: Low flexibility; difficult to implement changes once a phase is completed(Royce, 1970).
 Development Process
 
-Agile: Development divided into small, manageable sprints/iterations【Schwaber & Sutherland, 2017】.
-Waterfall: Development progresses through distinct phases (requirements, design, implementation, testing, deployment) one after another【Royce, 1970】.
+Agile: Development divided into small, manageable sprints/iterations(Schwaber & Sutherland, 2017).
+Waterfall: Development progresses through distinct phases (requirements, design, implementation, testing, deployment) one after another(Royce, 1970).
 Customer Involvement
 
-Agile: High level of customer involvement; frequent feedback【Schwaber & Sutherland, 2017】.
-Waterfall: Limited customer involvement; primarily during requirement gathering and final testing【Royce, 1970】.
+Agile: High level of customer involvement; frequent feedback(Schwaber & Sutherland, 2017).
+Waterfall: Limited customer involvement; primarily during requirement gathering and final testing(Royce, 1970).
 Documentation
 
-Agile: Minimal documentation; focuses on working software【Pressman, 2014】.
-Waterfall: Comprehensive and detailed documentation at each phase【Royce, 1970】.
+Agile: Minimal documentation; focuses on working software(Pressman, 2014).
+Waterfall: Comprehensive and detailed documentation at each phase(Royce, 1970).
 Risk Management
 
-Agile: Continuous and iterative risk management【Pressman, 2014】.
-Waterfall: Risks are identified and managed at the beginning of the project【Royce, 1970】.
+Agile: Continuous and iterative risk management(Pressman, 2014).
+Waterfall: Risks are identified and managed at the beginning of the project(Royce, 1970).
 Delivery
 
-Agile: Continuous delivery of software increments【Schwaber & Sutherland, 2017】.
-Waterfall: Single release at the end of the development cycle【Royce, 1970】.
+Agile: Continuous delivery of software increments(Schwaber & Sutherland, 2017).
+Waterfall: Single release at the end of the development cycle(Royce, 1970).
 Preferred Scenarios
 Agile:
 
-Projects with rapidly changing requirements【Pressman, 2014】.
-Projects requiring frequent customer feedback【Schwaber & Sutherland, 2017】.
-Environments where incremental delivery is beneficial【Schwaber & Sutherland, 2017】.
-Teams comfortable with flexible and iterative processes【Pressman, 2014】.
+Projects with rapidly changing requirements(Pressman, 2014).
+Projects requiring frequent customer feedback(Schwaber & Sutherland, 2017).
+Environments where incremental delivery is beneficial(Schwaber & Sutherland, 2017).
+Teams comfortable with flexible and iterative processes(Pressman, 2014).
 Waterfall:
 
-Projects with well-defined, stable requirements【Royce, 1970】.
-Highly regulated industries requiring thorough documentation【Pressman, 2014】.
-Large-scale projects with clear objectives and deliverables【Royce, 1970】.
-Teams accustomed to a structured, phase-based approach【Pressman, 2014】.
+Projects with well-defined, stable requirements(Royce, 1970).
+Highly regulated industries requiring thorough documentation(Pressman, 2014).
+Large-scale projects with clear objectives and deliverables(Royce, 1970).
+Teams accustomed to a structured, phase-based approach(Pressman, 2014).
 Requirements Engineering
 Requirements Engineering is the process of defining, documenting, and maintaining the requirements for a software system.
 Agile and Waterfall models offer distinct approaches to software development:
 
-Agile: Suited for projects with evolving requirements and a need for flexibility【Schwaber & Sutherland, 2017】.
-Waterfall: Best for projects with stable requirements and a need for extensive documentation【Royce, 1970】.
-Requirements engineering is a crucial discipline in both models, ensuring that the software meets user needs and business objectives【Pressman, 2014; Sommerville, 2015】.
+Agile: Suited for projects with evolving requirements and a need for flexibility(Schwaber & Sutherland, 2017).
+Waterfall: Best for projects with stable requirements and a need for extensive documentation(Royce, 1970).
+Requirements engineering is a crucial discipline in both models, ensuring that the software meets user needs and business objectives(Pressman, 2014; Sommerville, 2015).
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
 Requirements Engineering
@@ -171,27 +171,27 @@ Requirement Elicitation
 
 Objective: Gather requirements from stakeholders.
 Activities: Interviews, surveys, observations, workshops.
-Output: Initial list of user and business requirements【Pressman, 2014】.
+Output: Initial list of user and business requirements(Pressman, 2014).
 Requirement Analysis
 
 Objective: Analyze and prioritize the gathered requirements.
 Activities: Modeling requirements, feasibility analysis.
-Output: Refined and prioritized requirements list【Sommerville, 2015】.
+Output: Refined and prioritized requirements list(Sommerville, 2015).
 Requirement Specification
 
 Objective: Document the requirements clearly and precisely.
 Activities: Writing the requirements in a formal document.
-Output: Requirement Specification Document【Pressman, 2014】.
+Output: Requirement Specification Document(Pressman, 2014).
 Requirement Validation
 
 Objective: Ensure the requirements are correct, complete, and feasible.
 Activities: Reviews, inspections, prototyping.
-Output: Validated requirements【Sommerville, 2015】.
+Output: Validated requirements(Sommerville, 2015).
 Requirement Management
 
 Objective: Handle changes to requirements throughout the project lifecycle.
 Activities: Tracking changes, updating requirements, communicating with stakeholders.
-Output: Updated and managed requirements documentation【Pressman, 2014】.
+Output: Updated and managed requirements documentation(Pressman, 2014).
 Importance in the Software Development Lifecycle
 Clarity and Understanding: Ensures all stakeholders have a clear understanding of the requirements, reducing ambiguity.
 Guidance for Design and Development: Provides a roadmap for the design and development phases, ensuring alignment with stakeholder needs.
@@ -201,19 +201,19 @@ Stakeholder Satisfaction: Ensures that the end product aligns with stakeholder e
 Software Design Principles
 Single Responsibility Principle
 
-Definition: A class should have only one reason to change, meaning it should have only one job or responsibility【Martin, 2003】.
+Definition: A class should have only one reason to change, meaning it should have only one job or responsibility(Martin, 2003).
 Open/Closed Principle
 
-Definition: Software entities should be open for extension but closed for modification【Meyer, 1997】.
+Definition: Software entities should be open for extension but closed for modification(Meyer, 1997).
 Liskov Substitution Principle
 
-Definition: Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program【Liskov, 1987】.
+Definition: Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program(Liskov, 1987).
 Interface Segregation Principle
 
-Definition: No client should be forced to depend on methods it does not use【Martin, 2003】.
+Definition: No client should be forced to depend on methods it does not use(Martin, 2003).
 Dependency Inversion Principle
 
-Definition: High-level modules should not depend on low-level modules; both should depend on abstractions【Martin, 2003】.
+Definition: High-level modules should not depend on low-level modules; both should depend on abstractions(Martin, 2003).
 Conclusion
 Requirements engineering is a crucial process in the SDLC that ensures the developed software meets stakeholder needs and expectations. Software design principles guide developers in creating robust, maintainable, and scalable software systems. By adhering to these principles, developers can produce high-quality software that is easier to understand, extend, and maintain.
 
@@ -224,12 +224,12 @@ Modularity refers to the design principle of breaking down a software system int
 
 Benefits of Modularity
 Improved Maintainability
-Isolation of Changes: Changes in one module do not affect others, making the system easier to maintain and update【Pressman, 2014】.
-Easier Debugging: Issues can be isolated to specific modules, simplifying debugging and troubleshooting【Sommerville, 2015】.
+Isolation of Changes: Changes in one module do not affect others, making the system easier to maintain and update(Pressman, 2014).
+Easier Debugging: Issues can be isolated to specific modules, simplifying debugging and troubleshooting(Sommerville, 2015).
 
 Enhanced Scalability
-Independent Development: Modules can be developed, tested, and deployed independently, facilitating parallel development and scaling efforts【Pressman, 2014】.
-Reusable Components: Modules can be reused across different projects, reducing redundancy and improving efficiency【Sommerville, 2015】.
+Independent Development: Modules can be developed, tested, and deployed independently, facilitating parallel development and scaling efforts(Pressman, 2014).
+Reusable Components: Modules can be reused across different projects, reducing redundancy and improving efficiency(Sommerville, 2015).
 
 Testing in Software Engineering
 Software Testing is the process of evaluating and verifying that a software application functions correctly
@@ -242,27 +242,27 @@ Software Testing is the process of evaluating and verifying that a software appl
 Unit Testing
 Objective: Test individual components or functions.
 Scope: Focuses on the smallest units of code.
-Importance: Ensures that each component works as intended【Myers, 1979】.
+Importance: Ensures that each component works as intended(Myers, 1979).
 
 Integration Testing
 Objective: Test interactions between integrated modules.
 Scope: Focuses on the communication and data exchange between modules.
-Importance: Identifies interface defects between modules【Beizer, 1990】.
+Importance: Identifies interface defects between modules(Beizer, 1990).
 
 System Testing
 Objective: Test the complete and integrated software system.
 Scope: Covers end-to-end functionality.
-Importance: Verifies that the system meets specified requirements【Pressman, 2014】.
+Importance: Verifies that the system meets specified requirements(Pressman, 2014).
 
 Acceptance Testing
 Objective: Validate the software against user requirements.
 Scope: Conducted by end-users.
-Importance: Ensures the system satisfies user needs and is ready for deployment【Myers, 1979】.
+Importance: Ensures the system satisfies user needs and is ready for deployment(Myers, 1979).
 
 Importance of Testing
 Quality Assurance: Ensures the software meets quality standards.
 Risk Mitigation: Identifies and resolves defects early, reducing potential risks.
-Customer Satisfaction: Delivers a reliable and functional product to users【Pressman, 2014】.
+Customer Satisfaction: Delivers a reliable and functional product to users(Pressman, 2014).
 
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
@@ -273,20 +273,20 @@ Version Control Systems (VCS) are tools that help manage changes to source code 
 Importance of VCS
 Collaboration: Multiple developers can work on the same project simultaneously without conflicts.
 History Tracking: Keeps a history of changes, allowing for rollback to previous versions.
-Branching and Merging: Facilitates parallel development and integration of features【Chacon & Straub, 2014】.
+Branching and Merging: Facilitates parallel development and integration of features(Chacon & Straub, 2014).
 Examples of Popular VCS
 
 Git
 Features: Distributed VCS, branching and merging, offline access, robust community support.
-Use Case: Widely used for open-source and commercial projects【Chacon & Straub, 2014】.
+Use Case: Widely used for open-source and commercial projects(Chacon & Straub, 2014).
 
 Subversion (SVN)
 Features: Centralized VCS, atomic commits, versioned directories, good for handling binary files.
-Use Case: Suitable for projects requiring a centralized repository【Pilato et al., 2008】.
+Use Case: Suitable for projects requiring a centralized repository(Pilato et al., 2008).
 
 Mercurial
 Features: Distributed VCS, simplicity, efficiency, supports large projects.
-Use Case: Preferred for performance-critical and large-scale projects【O’Sullivan, 2009】.
+Use Case: Preferred for performance-critical and large-scale projects(O’Sullivan, 2009).
 
 Software Project Management
 Software Project Management involves planning, executing, and overseeing software projects to ensure they meet specified goals within constraints of time, budget, and resources.
@@ -379,7 +379,7 @@ Code of Ethics: Following professional codes of ethics such as ACM Code of Ethic
 
 Continuous Education: Keeping up-to-date with ethical guidelines and best practices through ongoing education and training.
 
-Ethical Decision-Making: Using ethical frameworks and principles to guide decision-making in software development【Gotterbarn et al., 1999】
+Ethical Decision-Making: Using ethical frameworks and principles to guide decision-making in software development(Gotterbarn et al., 1999)
 
 Key References:
 IEEE Standard Glossary of Software Engineering Terminology (1990).
